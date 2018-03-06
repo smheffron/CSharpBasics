@@ -1,5 +1,0 @@
-/Users/Shelby/Desktop/Basics/Basics/bin/Debug/Basics.exe
-/Users/Shelby/Desktop/Basics/Basics/bin/Debug/Basics.pdb
-/Users/Shelby/Desktop/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
-/Users/Shelby/Desktop/Basics/Basics/obj/x86/Debug/Basics.exe
-/Users/Shelby/Desktop/Basics/Basics/obj/x86/Debug/Basics.pdb
